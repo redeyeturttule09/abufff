@@ -1,14 +1,13 @@
 {
-    "type": "service_account",
-    "project_id": "tele-multi-game",
-    "private_key_id": "021f4efe1a3ed566353120aaf2f4174cd39bc582",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDL6HUTb16QXLUg\nakpr7mSntOjvgDruuRRp3XmO/bWBJRedxgK80i3TiyCUF4XGQsvjBzAi3dGirSXb\nVr8eJCrmEF0i+5xru4YmOu0+zzN987iLCoyY9TuWYtABflG/B/CCHj1+rvQTkttA\njyLM31NKdCRUT6BCxZW3lFNVBWlnDnhw2wMmw8iOEubJ7mQkwg7JzAnvr3MOz6N7\nW8f8WQM64q/qgaYl0vgbRkkoEq2RuutV5pBxVo32wBdd46BfJCrl3Z8/tIFjr3bD\nUWESPNbEQkB0TJamibLIirV9Tp9tAy1emv5soz9NMzKrQajEyjGP1ItnxXzaIgag\nv+9torwLAgMBAAECggEAENd5XAqVz+yoVS4SSYneLG/n0WhQ9ci5o+jUEnhoFmue\n4LwrG7dsa42ROkobFX4M4wqD8k1J9FrCxrQKgw3PsULmvm3zxH4vnVa+o7JveVa5\nBlrvs+6FZm1w6r6pN9MLDWQ8BgujQz6c918bK7rCYWLoYUJWZU12iTwqCdqxkv5c\nK/8jj/XG7ljXNr/3d/bXptk5VGy7HN/NxPTocn/jksPQhS4Ik7UkUqssWLacm+Mp\nu00YkRC4QLJE1tj/QNnsaUkPkiNinxYckvq6az91MqwaMPpOLbv5YobY80sZ9ee6\nvBLNR2LxjQUScEskQZp+riPh13qZAaruTVx8+fo/4QKBgQDyKFs6ANSgoALI4dfJ\nGKeVhycO8mlUy8QThZ+p754vY9/Rox77bunRkyCPu8CnF9lOutYercd21sFx/8Rx\n8zv0wGe3MEmk8U6Sgi6MNqKyO14OoDICsl/yF8qhXOwzFSMs0vMjzsBk1T1AH5Tj\nSjqsfBb7hMESdi6Fot+cuY5KuwKBgQDXkF7j6WHlMV9asruOI7AtCaley5zgX5Eu\n+N8YcybXr+GPZLqAoq6xucg5Z6PsKENuzblJ40eFKEswW5975UEEMcgoIjHuWUc6\nLrl9acW57c03Z8cxJ9kEWARA3Ar3JkdbBwTpOLb3ytY9NHApkF/t2X7aBqfi7dy1\ntc+QruoG8QKBgBsITkbHWPUlZ6otK/2S9wJGOCH/BaslpBnZzN0Xlr0LlSy93POM\niiWPGw9wki0VCHk1ejmqhJ3Lk4S6XJ+r24GTCQD2LwJuvaq1RaT5ZGgpIHLZhzut\n1fAcn84rpWJ+dZLHacURi4C2HURPQjutSad/osEpLLR25PKeIABK5ouJAoGBAInN\n2VuJzvNd5L9uk0gCuJWSH5xiPh+R+JY2syhGNQadgWzR0Ah794HWapGIF9rYwoML\nMPBzQz10zNxVNldV74Jm8LX3ZkQg/s/LHvl1rNl3lEFfLo/WEX4dZlqwULI+3k7q\n5dDSWOV/3gWyiCGKEklTSSzIJHuF5Bql59Nufl2BAoGBAIPHiF4UBq8t+3c8QzJU\nwJ9D0GpUb4QOEVGgG9jFaQuozLwarMXRCZ8GppEdanG7JBsSoJWEGtxaNgm23ogk\nEUWnPv5GiilaRraPA5qrVdlIYCEb/H/H89T3QCyfXJe86S6SY1Zg/KM8MRs4I7dM\nA/+MpGqQR+tntAJHoJyd4Haf\n-----END PRIVATE KEY-----\n",
-    "client_email": "firebase-adminsdk-ncg9v@tele-multi-game.iam.gserviceaccount.com",
-    "client_id": "117019834813555882470",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ncg9v%40tele-multi-game.iam.gserviceaccount.com",
-    "universe_domain": "googleapis.com"
-  }
-  
+  "type": "service_account",
+  "project_id": "tele-multi-game",
+  "private_key_id": "9ecd89dd034150a68a3abcf51f5d784a3028e365",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXA6ITbjBwLNLC\nr/2OKU+/ZY2pJ6MoljUYdVFuq2br4BZm7QPBoBJnZSDVDIBP4KMwLDOXpJhWucD9\nIrNONm+kRr7/qYeX8x99AS5qldBrFRFQDZqw415vCMi9E3iL8s3c//9Fcg1L1wqZ\nyrmd5gvFpnUNdHcgabOqCmnanNTt7l/pbYKfKW92aqegdG2jDGWqBXP2uOKCBHw+\nlmVXBLdVfJCljEHeayWdbxNilIUfpTaEs51PW6FVvBMGeyFde54egDS+cq/3VXAo\nhJSiCm64LPeWUHJB4PCpCXTbCt/ygetwMpNPEOUoRTUT+Xt0OmNnQU+2M7MGDjXY\nTJBRUQMVAgMBAAECggEAH8ZwLTn3f7byvuvUhHvtT4bBBLl2I4VdlTCkSo7OuG19\nkTkoW+7ASJi3DJUVj5kjBTEbxvnnYwIxWSIay+d43L5VFIr5oK+TrdQYje1Jfiqf\n6rH+HV+uIFtfD6e/6uSTS//imNxrb0yHar5FCbQcwIEqqoLZyQxstSf9R3ZN+GUn\n55z3fHGXArXaHsfh7MLnIDaaaZ5sIikie3V58yp6XVDLDV9vPgz6RgMPGZ3NygRR\ny5CCzHqoXoknOHikX8cu0zEb2WdTWm+GiYzNz0Wn0R86gkBELD10Tfy/oIbr2/lS\nkKlHwOsOMvpPx5oFSUy/O1PbFB3FCv5iVzxtpfayMQKBgQDLRjSaK/H6QRweTa60\npPUw1VXQVgM8S2GyFfrx+2TNoaywTcukA78HWa6YfhPlq74FeTKpP4WPS0S/a1gH\nH6J3kUsGGh5Fa8XjxIwB2MsCdfSHCdpYvtTIHJsl6EwF/McDY3RCPbaDHSnNzcmL\nXAUl2Tm+gLOcX7Iki3nJH1OEhQKBgQC+L0LuVjCJ7OAP6LCl6QJbGqIHb43FzKVn\nlX5WqL9kosMhLk/gd/TCgU49waKq06u24PBbXnGdtkjwOlSTPe90NZM/cUwbwwUT\ngZuH2Hd2fenv6mD0wjmNbLBxPbVHY+4pj0JsX1wsGoPwpza4e7aQnZ4TfGkK1VHm\n5YHAM/5RUQKBgBFOrPPjgfrYyFgcLR/cW7QItgHDEQt1L6BGFtO7n92SQm3QceJJ\nH1602BTLx03qzYcRxqp6ahjFQ9k4foo8u0yK5mRinOk0P+kgtvsBRmezO1q0EA82\nUE+pf9w+ZxqrZxZ2xVNOhdesB/8p4lsnPpj2YeBCfQh3bWeHKJtjO20xAoGBAJzV\n4q8jWqHTOq9D57DaJ3wzyVyybMqqSdjTGj2iqTr3Uk0hoPNuWOSxt3EMJvYS2m9U\nrkHa73zsntekcqx+DeLab5SI/QeD2sLMRhNPuqx3h5y2vr/5D3cGI7cu+ThnOzcA\nkflG5n7kWtvxORoHw3Uc1gght4ocgo8Twt1awyYRAoGAb6pszBFxakysSHICLR5h\nIsOPeQXLnKvctlqJIjt5RTkaoyV5WLJO1FDausbTRtOSRB17f8SaU29rPs7ZPSEW\nMVdD6val9rcCStVHSUoGzEXJosgO8IQmlsDFCO1gFr7TUl8nwg3pZbvISLaUUY40\ngqBOGt+H3Qj0liyHQ+ewoB8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ncg9v@tele-multi-game.iam.gserviceaccount.com",
+  "client_id": "117019834813555882470",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ncg9v%40tele-multi-game.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
