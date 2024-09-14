@@ -150,7 +150,7 @@ let letlevel = 'Bronze 🥉';
 
 
 const coinapisheet = {
-    usdtbalance: 'matic-polygon',
+    usdtbalance: 'usdt-tether',
     ethbalance: 'eth-ethereum',
     bnbbalance: 'bnb-binance-coin',
     maticbalance: 'matic-polygon',
